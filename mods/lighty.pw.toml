@@ -1,0 +1,13 @@
+name = "Lighty"
+filename = "lighty-neoforge-3.0.0-beta.8+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/Ua5CgydL/lighty-neoforge-3.0.0-beta.8%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "81875bb4128b7481cbaed480ff76f59eb176723e4b93070a733db8d7e10eec11"
+
+[update]
+[update.modrinth]
+mod-id = "yjvKidNM"
+version = "Ua5CgydL"

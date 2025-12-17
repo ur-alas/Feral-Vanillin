@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm"
+filename = "dummmmmmy-1.21-2.0.11-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/l7knRSW7/dummmmmmy-1.21-2.0.11-neoforge.jar"
+hash-format = "sha256"
+hash = "e595d378a3336769311987127be179a12c6dcc1492eabae9ec44b4c4f4f2bd37"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "l7knRSW7"

@@ -1,0 +1,13 @@
+name = "Aether Addon: Treasure Reforging"
+filename = "aether_treasure_reforging-1.21.1-1.0.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qIW8vBb/versions/I5oQA1d4/aether_treasure_reforging-1.21.1-1.0.1-neoforge.jar"
+hash-format = "sha256"
+hash = "7bcd455c83f9d9a8b857c458c7450dabe9178eedb51ed7651be966302b602925"
+
+[update]
+[update.modrinth]
+mod-id = "4qIW8vBb"
+version = "I5oQA1d4"

@@ -1,0 +1,13 @@
+name = "Nether Chested"
+filename = "NetherChested-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHJp2GRg/versions/fII2Ezk6/NetherChested-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "a1bf829366a4d6f489c5fa40ddefe8bc65d2f267f81a5bf18fc91d1f0e7aab80"
+
+[update]
+[update.modrinth]
+mod-id = "bHJp2GRg"
+version = "fII2Ezk6"

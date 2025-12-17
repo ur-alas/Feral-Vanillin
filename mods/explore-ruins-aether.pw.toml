@@ -1,0 +1,13 @@
+name = "Explore Ruins: The Aether - Dungeons & Structures"
+filename = "explore_ruins_aether-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/spwhkPqk/versions/hXttxA3w/explore_ruins_aether-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "4fc02d88511e580e9660d96adec4f317fae4cb61b1702e7475df3c26b1f9cb99"
+
+[update]
+[update.modrinth]
+mod-id = "spwhkPqk"
+version = "hXttxA3w"

@@ -1,0 +1,13 @@
+name = "Puzzle"
+filename = "puzzle-neoforge-2.2.1+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/p5WWRIWB/puzzle-neoforge-2.2.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "a5348a96fee1f3c6231c850a80ee86e292754dc0a670355567d0135791e1947b"
+
+[update]
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "p5WWRIWB"

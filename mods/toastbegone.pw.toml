@@ -1,0 +1,13 @@
+name = "ToastBegone"
+filename = "toastbegone-neoforge-1.21-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8reZf3x/versions/5hLqblBx/toastbegone-neoforge-1.21-1.2.0.jar"
+hash-format = "sha256"
+hash = "7044b77517ef2b3b664777e273ebba1464df3e6319be5f93b461dc3cec3b8210"
+
+[update]
+[update.modrinth]
+mod-id = "g8reZf3x"
+version = "5hLqblBx"

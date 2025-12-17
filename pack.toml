@@ -1,0 +1,13 @@
+name = "Feral Vanillin"
+author = "Alas"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "db9f8dc038511bf489a6df4cbf0fd5f3c2a039a2f4b04563bdbb5903e31cf75c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"

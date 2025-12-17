@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: The Aether"
+filename = "farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W77u83l0/versions/DCFNR3Jw/farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar"
+hash-format = "sha256"
+hash = "40cf84a3b518be5e49f8085f9fb4cf9b58ea278480a00b91ed68c62a9f66c17d"
+
+[update]
+[update.modrinth]
+mod-id = "W77u83l0"
+version = "DCFNR3Jw"

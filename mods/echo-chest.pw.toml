@@ -1,0 +1,13 @@
+name = "Echo Chest"
+filename = "EchoChest-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3pkVbY8/versions/S5sNyRsY/EchoChest-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "74b3c3871ae2baf35115236b516cac29cd2ae6de547863bb0609857c7a5e1e6f"
+
+[update]
+[update.modrinth]
+mod-id = "m3pkVbY8"
+version = "S5sNyRsY"

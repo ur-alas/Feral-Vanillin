@@ -1,0 +1,13 @@
+name = "Horseman"
+filename = "horseman-neoforge-1.21.1-1.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qIv5FhAA/versions/LEJ4qaYg/horseman-neoforge-1.21.1-1.5.6.jar"
+hash-format = "sha256"
+hash = "c1534bba0baf58222863c3779b13ac4b71741dd8eb472426f36b1169d3f500f1"
+
+[update]
+[update.modrinth]
+mod-id = "qIv5FhAA"
+version = "LEJ4qaYg"
