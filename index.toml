@@ -93,12 +93,12 @@ file = "config/waila/waila.json5"
 hash = "af8eeafd649c97db3fd9286349d1c5dd232915209ab1ac3da3362acb9991b29d"
 
 [[files]]
-file = "mods/Quark-4.1-468.jar"
-hash = "c0896761656588653fe9965eeae238d5e58652fedf793ce0673b6aaf157b942f"
+file = "mods/Quark-4.1-472-SNAPSHOT.jar"
+hash = "f9d57fb0bf597b92fb9ead5a980c14cfd518023c71964df9f44c176aa975713f"
 
 [[files]]
-file = "mods/Zeta-1.1-35.jar"
-hash = "f9c6ce28c6803a867dbdfc0b0302179429870c83650aa7a9f233abcf1aae8c31"
+file = "mods/Zeta-1.1-37.jar"
+hash = "653f064e14ed53ab2f06f8259f2484b9cc988632ca975914ddb7991cbf158287"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
