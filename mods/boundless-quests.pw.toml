@@ -1,13 +1,13 @@
 name = "Boundless: Quests"
-filename = "boundless-1.4.jar"
+filename = "boundless-4.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Pe7paqrv/versions/Wkp4dho1/boundless-1.4.jar"
-hash-format = "sha256"
-hash = "b4c4ce8757b95a33a7e042fbb3c9dfdd57b8c37c1efc96bd16dc37720004321e"
+url = "https://cdn.modrinth.com/data/Pe7paqrv/versions/lDWZUh59/boundless-4.3.jar"
+hash-format = "sha512"
+hash = "242d891b3e4685f61013386852b238164c1709500d43e75a344bb0187c70fca0a1ab2a4835e6ba6a8d6fc2e19bf667e283a0763c5b55302e0837f7b3f4fe7674"
 
 [update]
 [update.modrinth]
 mod-id = "Pe7paqrv"
-version = "Wkp4dho1"
+version = "lDWZUh59"
